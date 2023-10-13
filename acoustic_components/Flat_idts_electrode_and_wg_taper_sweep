@@ -2,6 +2,8 @@ import shapely as sp
 import gdsfactory as gf
 from gdsfactory.generic_tech import get_generic_pdk
 
+#material platform = ScAlN_Silicon_Sapphire
+
 ##### to do #####
 
 #define variables for layers so that there is dose >1 in the GDS.
